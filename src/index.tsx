@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './components/home';
 import GameNew from './components/games/new';
-import GamePlay from './components/games/new';
+import GamePlay from './components/games/play';
 
 ReactDOM.render(
   <BrowserRouter>
